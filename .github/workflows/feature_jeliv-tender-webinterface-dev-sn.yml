@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'jeliv-tender-webinterface-dev-sn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFB259C152354AC69EEBB03944E5B4E4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3113073419A646A688053D00AE2B0865 }}
